@@ -1,0 +1,22 @@
+{
+    "name": "recursive-redirect",
+    "version": "1.0.0",
+    "description": "Utility function that takes a URL and a set of redirect rules and returns a redirect target.",
+    "main": "index.ts",
+    "scripts": {
+        "test": "vitest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BasilLangevin/recursive-redirect.git"
+    },
+    "author": "Basil Langevin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/BasilLangevin/recursive-redirect/issues"
+    },
+    "homepage": "https://github.com/BasilLangevin/recursive-redirect#readme",
+    "devDependencies": {
+        "vitest": "^3.1.2"
+    }
+}
