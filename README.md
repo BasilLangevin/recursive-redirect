@@ -118,6 +118,10 @@ interface RedirectDefinition {
 }
 ```
 
-## License
+## Testing
 
-MIT
+The project uses [Vitest](https://vitest.dev/) for testing. To run the tests:
+
+```bash
+npm test
+```
